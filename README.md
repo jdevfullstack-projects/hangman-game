@@ -4,6 +4,6 @@
 hangman game from Vanilla Web Projects
 
 click the link to run the program:
-<https://jdevstatic.github.io/hangman-game/>
+<https://jdevfullstack-projects.github.io/hangman-game/>
 
 I simply used the GitHub Pages to deploy the program!
